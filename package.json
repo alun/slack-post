@@ -1,0 +1,16 @@
+{
+  "name": "post-notifier",
+  "version": "1.0.0",
+  "description": "A slack bot notifing a channel about post requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Lunacharskii",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "slackbots": "^0.3.0"
+  }
+}
